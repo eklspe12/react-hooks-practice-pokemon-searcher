@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Bulbasuar",
+      "hp": "40",
+      "sprites": {
+        "front": "https://i.pinimg.com/736x/39/fd/4c/39fd4c3644b0a64c00fe1486670647f9.jpg",
+        "back": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBe28npQjeQ8aa5fQBeje7RuAOG23j2pYl121Z0CCoqv_Y2dILp650AD6eykEcQhWhzrk&usqp=CAU"
+      },
+      "id": 151
     }
   ]
 }
